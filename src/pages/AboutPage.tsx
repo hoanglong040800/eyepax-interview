@@ -8,7 +8,7 @@ const AboutPage = () => {
 		<div>
 			<Title>About Page</Title>
 			<Paragraph>This is the about page of your React application.</Paragraph>
-			<Link to="/home">Home</Link>
+			<Link to="/">Home</Link>
 		</div>
 	);
 };

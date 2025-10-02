@@ -9,7 +9,10 @@ const HomePage = () => {
 		<div>
 			<Title>Home Page</Title>
 			<Counter />
+
+
 			<Link to="/about">About</Link>
+			<Link to="/product">Product Page</Link>
 		</div>
 	);
 };
